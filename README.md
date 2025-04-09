@@ -72,12 +72,12 @@ Feel free to:
 ## 💬 Let's Connect
 
 
-🔗 Medium: <a href='https://sukriti-speaks.medium.com/' target="_blank">sukriti-speaks.medium.com/</a>  
-🔗 LinkedIn: <a href='https://www.linkedin.com/in/sukritichatterjee/' target="_blank">@sukriti_chatterjee</a>  
-🔗 X(Twitter): <a href='https://x.com/SukritiSpeak' target="_blank">@SukritiSpeak</a>
-🔗 Google Cloud Badges: <a href='https://www.cloudskillsboost.google/public_profiles/53df2710-444d-4f31-9c37-6c87dfcf102f'> Sukriti Chatterjee</a>
-🔗 Accredible Credential: <a href='https://www.credential.net/profile/sukritichatterjee/wallet'>Sukriti Chatterjee</a>
-🔗 Credly Badges: <a href='https://www.credly.com/users/sukriti-chatterjee.aadce67f'>Sukriti Chatterjee</a>
+🔗 [Medium](https://sukriti-speaks.medium.com/)
+🔗 [LinkedIn](https://www.linkedin.com/in/sukritichatterjee/)
+🔗 [X(Twitter)](https://x.com/SukritiSpeak/)
+🔗 [Google Cloud Badges](https://www.cloudskillsboost.google/public_profiles/53df2710-444d-4f31-9c37-6c87dfcf102f)
+🔗 [Accredible Credential](https://www.credential.net/profile/sukritichatterjee/wallet)
+🔗 [Credly Badges](https://www.credly.com/users/sukriti-chatterjee.aadce67f)
 
 > I'm always up for a good AI chat or knowledge exchange — feel free to drop a message!
 
