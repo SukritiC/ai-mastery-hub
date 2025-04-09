@@ -38,8 +38,7 @@ ai-mastery-hub/
 
 1. Learning Google Agentspace
 2. Study Notes for Professional Machine Learning Engineer
-a. Introduction  
-b. Data Preparation & Modeling
+
 ---
 
 ## 📌 Why I Made This
