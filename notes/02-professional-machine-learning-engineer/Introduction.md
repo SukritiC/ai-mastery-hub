@@ -3,15 +3,15 @@
 
 ## 📚 Table of Contents
 
-1. [LLM Agents]
-2. [Generative AI]
-3. [Vertex AI Sudio]
-4. [Google Cloud Infrastructure]
-5. [ML Categories]
-6. [Big Query: storage & analytics]
-7. [AI Developement Options]
-8. [Pre-trained APIs]
-9. [Generative AI APIs]
-10. [Vertex AI]
-11. [AI Development Workflow]
+1. LLM Agents
+2. Generative AI
+3. Vertex AI Sudio
+4. Google Cloud Infrastructure
+5. ML Categories
+6. Big Query: storage & analytics
+7. AI Developement Options
+8. Pre-trained APIs
+9. Generative AI APIs
+10. Vertex AI
+11. AI Development Workflow
     
