@@ -37,7 +37,7 @@ ai-mastery-hub/
 > A growing list of everything I’m learning in the GenAI space:
 
 1. [Learning Google Agentspace](https://fern-stop-81f.notion.site/Google-Agentspace-1d013f9f5c03803d9dd3ea7c72fbbc45?pvs=4)
-2. [Study Notes for Professional Machine Learning Engineer]  
+2. Study Notes for Professional Machine Learning Engineer
    &nbsp;&nbsp;&nbsp;&nbsp;a. [Introduction](https://fern-stop-81f.notion.site/Machine-Learning-Engineer-Learning-Path-Introduction-1b313f9f5c038013840bf69971e5759e?pvs=74)  
    &nbsp;&nbsp;&nbsp;&nbsp;b. [Data Preparation & Modeling](https://fern-stop-81f.notion.site/Machine-Learning-Engineer-Learning-Path-Data-Preparation-Modeling-1c113f9f5c03808f990ddb748350f5dc)
 
