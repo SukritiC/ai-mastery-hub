@@ -74,3 +74,8 @@ Feel free to:
 
 > I'm always up for a good AI chat or knowledge exchange — feel free to drop a message!
 
+---
+
+## 📄 License
+This project is licensed under the [MIT License](LICENSE).
+
