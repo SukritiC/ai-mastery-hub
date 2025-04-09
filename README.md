@@ -30,7 +30,7 @@ Whether you're just getting started, already deep into prompts and models, or so
 ## 📁 Folder Structure
 
 ```bash
-genai-notes-journal/
+ai-mastery-hub/
 │
 ├── 01-google-agentspace/
 │   └── notes.md
