@@ -2,6 +2,10 @@
 
 Welcome to my personal **Generative AI Learning Journal** – a curated space where I document my journey into the world of **Artificial Intelligence** and **Generative AI** 🌟
 
+<p align="center">
+  <img src="assets/genai-banner.png" alt="GenAI Notes Journal Banner" />
+</p>
+
 Whether you're just getting started, already deep into prompts and models, or somewhere in between – feel free to explore, learn, and contribute!
 
 ---
@@ -32,4 +36,37 @@ genai-notes-journal/
 │   └── notes.md
 ├── notion-links.md
 └── README.md
+
+## 📌 Why I Made This
+
+I wanted to:
+
+- 🧠 Stay consistent in my AI/GenAI learning journey
+- ⚡ Simplify complex concepts into digestible notes
+- 🔄 Refer back to resources quickly
+- 🤝 Share my learnings with the community
+- 🛠️ Build a habit of documenting while learning
+
+## 🙌 Contributions Welcome
+
+If you:
+
+- Found a cool new resource or session worth noting
+- Spotted an error or outdated link
+- Want to collaborate or extend these notes
+
+Feel free to:
+
+- Open a **Pull Request**
+- Submit an **Issue**
+- Or just reach out directly on [LinkedIn](https://www.linkedin.com/in/sukritichatterjee/)
+
+## 💬 Let's Connect
+
+📧 Email: your.email@example.com  
+🧠 Medium: (https://sukriti-speaks.medium.com/)  
+🔗 LinkedIn: (https://www.linkedin.com/in/sukritichatterjee/)  
+📸 X(Twitter): (x.com/SukritiSpeak)
+
+> I'm always up for a good AI chat or knowledge exchange — feel free to drop a message!
 
