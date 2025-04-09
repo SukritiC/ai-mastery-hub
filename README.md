@@ -27,16 +27,6 @@ Whether you're just getting started, already deep into prompts and models, or so
 
 ---
 
-## 📁 Folder Structure
-
-```bash
-ai-mastery-hub/
-│
-├── 01-google-agentspace/
-│   └── notes.md
-├── notion-links.md
-└── README.md
-
 ## 📌 Why I Made This
 
 I wanted to:
@@ -46,6 +36,8 @@ I wanted to:
 - 🔄 Refer back to resources quickly
 - 🤝 Share my learnings with the community
 - 🛠️ Build a habit of documenting while learning
+
+---
 
 ## 🙌 Contributions Welcome
 
@@ -60,6 +52,8 @@ Feel free to:
 - Open a **Pull Request**
 - Submit an **Issue**
 - Or just reach out directly on [LinkedIn](https://www.linkedin.com/in/sukritichatterjee/)
+
+---
 
 ## 💬 Let's Connect
 
