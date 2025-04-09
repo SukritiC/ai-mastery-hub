@@ -20,7 +20,6 @@ Whether you're just getting started, already deep into prompts and models, or so
 ---
 ## 📁 Folder Structure
 
-```bash
 ai-mastery-hub/
 📁 sessions/
    ├── 01-google-agentspace/
