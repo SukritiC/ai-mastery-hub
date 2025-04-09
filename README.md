@@ -22,9 +22,11 @@ Whether you're just getting started, already deep into prompts and models, or so
 
 ```bash
 ai-mastery-hub/
-📁 sessions/
+📁 notes/
    ├── 01-google-agentspace/
-   │   └── summary.md
+   │   └── notes.md
+   ├── 02-professional-machine-learning-engineer/
+   │   └── notes.md
 ```
 
 ---
@@ -34,7 +36,8 @@ ai-mastery-hub/
 > A growing list of everything I’m learning in the GenAI space:
 
 1. [Learning Google Agentspace](https://fern-stop-81f.notion.site/Google-Agentspace-1d013f9f5c03803d9dd3ea7c72fbbc45?pvs=4)
-
+2. [Study Notes for Professional Machine Learning Engineer]
+   a. 
 ---
 
 ## 📌 Why I Made This
