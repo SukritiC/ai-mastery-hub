@@ -58,9 +58,9 @@ Feel free to:
 ## 💬 Let's Connect
 
 
-🧠 Medium: <a href='https://sukriti-speaks.medium.com/' target='new'>sukriti-speaks.medium.com/</a>  
-🔗 LinkedIn: <a href='https://www.linkedin.com/in/sukritichatterjee/' target='new'>@sukriti_chatterjee</a>  
-📸 X(Twitter): <a href='x.com/SukritiSpeak' target='new'>@SukritiSpeak</a>
+🧠 Medium: <a href='https://sukriti-speaks.medium.com/' target='_blank'>sukriti-speaks.medium.com/</a>  
+🔗 LinkedIn: <a href='https://www.linkedin.com/in/sukritichatterjee/' target='_blank'>@sukriti_chatterjee</a>  
+📸 X(Twitter): <a href='x.com/SukritiSpeak' target='_blank'>@SukritiSpeak</a>
 
 > I'm always up for a good AI chat or knowledge exchange — feel free to drop a message!
 
