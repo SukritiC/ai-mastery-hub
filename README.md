@@ -18,6 +18,15 @@ Whether you're just getting started, already deep into prompts and models, or so
 - 🛠️ **Resources**: Books, YouTube channels, GitHub repos, tools & more.
 
 ---
+## 📁 Folder Structure
+
+```bash
+ai-mastery-hub/
+📁 sessions/
+   ├── 01-google-agentspace/
+   │   └── summary.md
+
+---
 
 ## 📚 Notes Index
 
