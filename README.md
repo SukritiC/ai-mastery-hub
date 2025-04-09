@@ -3,7 +3,7 @@
 Welcome to my personal **Generative AI Learning Journal** – a curated space where I document my journey into the world of **Artificial Intelligence** and **Generative AI** 🌟
 
 <p align="center">
-  <img src="assets/genai-banner.png" alt="GenAI Notes Journal Banner" />
+  <img src="assets/banner.jpg" alt="GenAI Notes Journal Banner" />
 </p>
 
 Whether you're just getting started, already deep into prompts and models, or somewhere in between – feel free to explore, learn, and contribute!
@@ -63,10 +63,10 @@ Feel free to:
 
 ## 💬 Let's Connect
 
-📧 Email: your.email@example.com  
-🧠 Medium: (https://sukriti-speaks.medium.com/)  
-🔗 LinkedIn: (https://www.linkedin.com/in/sukritichatterjee/)  
-📸 X(Twitter): (x.com/SukritiSpeak)
+
+🧠 Medium: <a href='https://sukriti-speaks.medium.com/'>sukriti-speaks.medium.com/</a>  
+🔗 LinkedIn: <a href='https://www.linkedin.com/in/sukritichatterjee/'>@sukriti_chatterjee</a>  
+📸 X(Twitter): <a href='x.com/SukritiSpeak'>@SukritiSpeak</a>
 
 > I'm always up for a good AI chat or knowledge exchange — feel free to drop a message!
 
