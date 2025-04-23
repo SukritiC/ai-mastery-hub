@@ -28,6 +28,7 @@ ai-mastery-hub/
    ├── 02-professional-machine-learning-engineer/
    │   └── Introduction.md
    │   └── data-preparation-and-modelling.md
+   │   └── responsible-ai-for-devs-privacy-and-safety.md
 ```
 
 ---
@@ -38,6 +39,7 @@ ai-mastery-hub/
 
 1. Learning Google Agentspace
 2. Study Notes for Professional Machine Learning Engineer
+   
 
 ---
 
@@ -45,7 +47,7 @@ ai-mastery-hub/
 
 I wanted to:
 
-- 🧠 Stay consistent in my AI/GenAI learning journey
+- 🧠 Stay consistent in my AI/Gen-AI learning journey
 - ⚡ Simplify complex concepts into digestible notes
 - 🔄 Refer back to resources quickly
 - 🤝 Share my learnings with the community
