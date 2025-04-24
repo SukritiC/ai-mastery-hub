@@ -1,6 +1,6 @@
 ### Machine Learning Engineer Learning Path - Responsible AI for Devs: Privacy & Safety
 
-📘 <a href='#'> Read Here </a> 
+📘 <a href='https://fern-stop-81f.notion.site/Machine-Learning-Engineer-Learning-Path-Responsible-AI-for-Devs-Privacy-Safety-1d513f9f5c038034baf6e90a16130d4d?pvs=4'> Read Here </a> 
 
 ## 📚 Table of Contents
 1. AI Privacy
