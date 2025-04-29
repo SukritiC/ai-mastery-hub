@@ -77,9 +77,12 @@ Feel free to:
 🔗 [Medium](https://sukriti-speaks.medium.com/)
 🔗 [LinkedIn](https://www.linkedin.com/in/sukritichatterjee/)
 🔗 [X(Twitter)](https://x.com/SukritiSpeak/)
+🔗 [Commudle Profile](https://www.commudle.com/users/SukritiC)
+<br/>
 🔗 [Google Cloud Badges](https://www.cloudskillsboost.google/public_profiles/53df2710-444d-4f31-9c37-6c87dfcf102f)
 🔗 [Accredible Credential](https://www.credential.net/profile/sukritichatterjee/wallet)
 🔗 [Credly Badges](https://www.credly.com/users/sukriti-chatterjee.aadce67f)
+
 
 > I'm always up for a good AI chat or knowledge exchange — feel free to drop a message!
 
