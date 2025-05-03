@@ -29,6 +29,10 @@ ai-mastery-hub/
    │   └── Introduction.md
    │   └── data-preparation-and-modelling.md
    │   └── responsible-ai-for-devs-privacy-and-safety.md
+   │   └──
+   ├── 03-data-engineer-learning/
+   │   └── using-gemini-in-bigquery.md
+   │   └──
 ```
 
 ---
@@ -39,6 +43,7 @@ ai-mastery-hub/
 
 1. Learning Google Agentspace
 2. Study Notes for Professional Machine Learning Engineer
+3. Study Notes for Data Engineeing 
    
 
 ---
