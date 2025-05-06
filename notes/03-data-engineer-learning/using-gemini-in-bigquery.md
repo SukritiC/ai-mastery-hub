@@ -9,3 +9,5 @@
 5. Hands-on - Generating Insight in BigQuery
 6. Hands-on - Using Table Explorer in BigQuery
 7. Hands-on - Transform the Query after generating Insights in BigQuery
+8. Assist Code Development
+9. Discover & Visualise Workflow
