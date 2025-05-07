@@ -1,4 +1,4 @@
-### Data Engineering Learning - Gemini in BigQuery
+### Data Engineering Learning - Boost Productivity with Gemini in BigQuery
 📘 <a href='https://fern-stop-81f.notion.site/Gemini-in-BigQuery-1e813f9f5c0380b49de0fd4d5b699368?pvs=4'> Read Here </a> 
 
 ## 📚 Table of Contents
