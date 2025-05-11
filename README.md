@@ -32,7 +32,7 @@ ai-mastery-hub/
    │   └──
    ├── 03-data-engineer-learning/
    │   └── using-gemini-in-bigquery.md
-   │   └──
+   │   └── work-with-gemini-models-in-big-query.md
 ```
 
 ---
