@@ -1,5 +1,6 @@
 ### Data Engineering Learning - Work with Gemini Models in BigQuery
 
+📘 <a href="https://fern-stop-81f.notion.site/Working-with-Gemini-Models-with-BigQuery-1ec13f9f5c0380f7a656d9f1b6b877fa"> Read Here</a>
 
 ## 📚 Table of Contents
 <ol>
