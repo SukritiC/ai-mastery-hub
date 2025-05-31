@@ -1,8 +1,8 @@
-### Professional Machine Learning Engineer - Engineer Data for Predictive Modelling with BigQuery ML
+# Professional Machine Learning Engineer - Engineer Data for Predictive Modelling with BigQuery ML
 
 ## 📚 Table of Contents
 
-# Creating a Data Transformation Pipeline with Cloud Dataprep
+### Creating a Data Transformation Pipeline with Cloud Dataprep
 1. Task 1: Open Dataprep in the Google Cloud Console
 2. Task 2: Create a BigQuery dataset
 3. Task 3: Connecting BigQuery Data to Cloud Dataprep
