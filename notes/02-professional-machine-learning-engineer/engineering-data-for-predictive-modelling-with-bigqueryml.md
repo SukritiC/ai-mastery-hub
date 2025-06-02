@@ -14,4 +14,6 @@
 7. Running Cloud Dataprep jobs to BigQuery
 
 ### ETL Processing on Google Cloud Using Dataflow and BigQuery (Python)
-Upcoming Content...
+1. Enable Dataflow API
+2. Task 1: Download Starter Code
+3. Task 2: Create a Cloud Storage bucket and copy files to the bucket
