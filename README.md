@@ -29,7 +29,7 @@ ai-mastery-hub/
    │   └── Introduction.md
    │   └── data-preparation-and-modelling.md
    │   └── responsible-ai-for-devs-privacy-and-safety.md
-   │   └── engineering-data-for-predictive-modelling-with-bigqueryml.md
+   │   └── engineering-data-for-predictive-modelling-with-bigqueryml-part1.md
    ├── 03-data-engineer-learning/
    │   └── using-gemini-in-bigquery.md
    │   └── work-with-gemini-models-in-big-query.md
