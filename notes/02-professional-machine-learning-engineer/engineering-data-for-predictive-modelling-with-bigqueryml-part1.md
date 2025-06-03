@@ -1,4 +1,4 @@
-# Professional Machine Learning Engineer - Engineer Data for Predictive Modelling with BigQuery ML
+# Professional Machine Learning Engineer - Engineer Data for Predictive Modelling with BigQuery ML Part 1
 
 📘 <a href='https://fern-stop-81f.notion.site/ML-Engineering-Path-Engineer-Data-for-Predictive-Modeling-with-BigQuery-ML-1e213f9f5c0380ab867ee9f39c935619'> Read Here </a> 
 
@@ -17,3 +17,7 @@
 1. Enable Dataflow API
 2. Task 1: Download Starter Code
 3. Task 2: Create a Cloud Storage bucket and copy files to the bucket
+4. Task 3: Review & run data ingestion pipeline
+5. Task 4: Review & run data transformation pipeline
+6. Task 5: Review & run data enrichment pipeline
+7. Task 6: Review & run data lake to data mart pipeline
