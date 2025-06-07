@@ -30,7 +30,7 @@ ai-mastery-hub/
    │   └── data-preparation-and-modelling.md
    │   └── responsible-ai-for-devs-privacy-and-safety.md
    │   └── part1-engineering-data-for-predictive-modelling-with-bigqueryml.md
-   │   └── part2-engineering-data-for-predictive-modelling-with-bigqueryml.md
+   │   └── build-train-deploy-ml-models-with-keras-on-google-cloud.md
    │   └──
    │   └── 
    ├── 03-data-engineer-learning/
