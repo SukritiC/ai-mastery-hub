@@ -2,6 +2,9 @@
 
 📘 <a href='https://fern-stop-81f.notion.site/ML-Engineering-Path-Engineer-Data-for-Predictive-Modeling-with-BigQuery-ML-1e213f9f5c0380ab867ee9f39c935619'> Read Here </a> 
 
+## 🗒️ Summary
+This module provides a practical walkthrough of building and executing data transformation pipelines using Cloud Dataprep and Google Cloud Dataflow with BigQuery (Python). It begins with setting up a BigQuery dataset and integrating it with Dataprep for interactive data exploration, cleaning, and enrichment using a visual interface. Users then run transformation jobs that output to BigQuery. The second part focuses on enabling the Dataflow API and working with a code-driven ETL process, covering ingestion, transformation, enrichment, and creating a full pipeline from data lake to data mart, leveraging Cloud Storage and Dataflow for scalable data operations.
+
 ## 📚 Table of Contents
 
 ### Creating a Data Transformation Pipeline with Cloud Dataprep
