@@ -1,5 +1,8 @@
-### Professional Machine Learning Engineer - Data Preparation & Modeling  
+# Professional Machine Learning Engineer - Data Preparation & Modelling  
 📘 <a href='https://fern-stop-81f.notion.site/Machine-Learning-Engineer-Learning-Path-Data-Preparation-Modeling-1c113f9f5c03808f990ddb748350f5dc'> Read Here </a> 
+
+## 🗒️ Summary
+This content explores key Google Cloud Platform (GCP) tools and services for data engineering and machine learning. It starts by comparing Dataflow and Dataproc, highlighting their use cases in stream and batch processing. The Pub/Sub to BigQuery template demonstrates how to set up real-time data pipelines. The Cloud Natural Language API showcases how to extract insights from text using machine learning. Using Vertex AI notebooks, users can develop and experiment with ML models efficiently. Hands-on sessions with BigQuery ML guide users in building models directly within BigQuery and applying them to practical scenarios, such as predicting visitor purchases using classification models.
 
 ## 📚 Table of Contents
 
