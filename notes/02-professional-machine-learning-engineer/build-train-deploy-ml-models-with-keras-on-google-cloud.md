@@ -1,6 +1,5 @@
 # Build, Train, and Deploy ML Models with Keras on Google Cloud
 
-# Professional Machine Learning Engineer - Data Preparation & Modelling  
 📘 <a href=''> Link Coming Soon .. </a> 
 
 ## 🗒️ Summary
