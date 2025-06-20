@@ -15,4 +15,8 @@ Complete Summary will be added soon
 ### Design and Input Data Pipeline
 1. Training on large datasets with tf.data API
 2. Working in-memory and with files
-3.  
+3.  Getting Data ready for the model
+4.  Embeddings
+5.  Hands On: TensorFlow Dataset API
+6.  Scaling Data Processing with tf.data & Keras preprocessing Layers
+7.  Hands On: Classifying Structured Data using Keras Preprocessing Layers
