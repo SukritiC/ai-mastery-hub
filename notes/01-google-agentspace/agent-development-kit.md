@@ -14,7 +14,9 @@ Coming Soon...
 
 ### Develop agents with ADK
 1. ADK Key Concepts
-2. 
+2. Components of ADK
+3. How to configure ADK
+4. Ways to Interact with your agent
 
 ### Build Multi-Agent systems with ADK
 
