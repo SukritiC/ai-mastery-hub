@@ -24,8 +24,14 @@ Whether you're just getting started, already deep into prompts and models, or so
 ai-mastery-hub/
 📁 notes/
    ├── 01-google-agentspace/
-   │   └── notes.md
-   │   └── agent-development-kit.md
+   │   ├── notes.md
+   │   ├── adk/
+   │   │   ├── agent-development-kit.md
+   │   │   ├── adk_project
+   │   │   │   └── app_agent
+   │   │   │   └── llm_auditor
+   │   │   │   └── my_google_search_agent
+   │   │   │   
    ├── 02-professional-machine-learning-engineer/
    │   └── Introduction.md
    │   └── data-preparation-and-modelling.md
