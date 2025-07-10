@@ -22,6 +22,10 @@ model_name = os.getenv("MODEL")
 cloud_logging_client = google.cloud.logging.Client()
 cloud_logging_client.setup_logging()
 
+from pydantic import BaseModel, Field
+
+class CountryCapital(BaseModel):
+    capital: str = Field(description="A country's capital.")
 
 # Create an async main function
 async def main():
@@ -37,6 +41,9 @@ async def main():
         instruction="Answer questions.",
         before_model_callback=log_query_to_model,
         after_model_callback=log_model_response,
+        disallow_transfer_to_parent=True,
+        disallow_transfer_to_peers=True,
+        output_schema=CountryCapital,
 
     )
 
