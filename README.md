@@ -27,10 +27,10 @@ ai-mastery-hub/
    │   ├── notes.md
    │   ├── adk/
    │   │   ├── agent-development-kit.md
-   │   │   ├── adk_project
-   │   │   │   └── app_agent
-   │   │   │   └── llm_auditor
-   │   │   │   └── my_google_search_agent
+   │   │   ├── adk_project/
+   │   │   │   └── app_agent/
+   │   │   │   └── llm_auditor/
+   │   │   │   └── my_google_search_agent/
    │   │   │   
    ├── 02-professional-machine-learning-engineer/
    │   └── Introduction.md
