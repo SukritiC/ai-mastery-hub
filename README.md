@@ -31,7 +31,13 @@ ai-mastery-hub/
    │   │   │   └── app_agent/
    │   │   │   └── llm_auditor/
    │   │   │   └── my_google_search_agent/
-   │   │   │   
+   │   │   │
+   │   │   ├── adk_tools/
+   │   │   │   └── crewai_tool_agent/
+   │   │   │   └── function_tool_agent/
+   │   │   │   └── langchain_tool_agent/
+   │   │   │   └── vertexai_search_tool_agent/
+   │   │   │
    ├── 02-professional-machine-learning-engineer/
    │   └── Introduction.md
    │   └── data-preparation-and-modelling.md
