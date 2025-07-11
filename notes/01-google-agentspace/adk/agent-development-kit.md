@@ -1,6 +1,6 @@
 # Agent Development Kit (ADK)
 
-📘 <a href='#'> Link Coming Soon... </a> 
+📘 <a href='https://fern-stop-81f.notion.site/Agent-Development-Kit-ADK-22713f9f5c0380a5bddee40b44f89076'> Agent Development Kit (ADK) - Part 1 </a> 
 
 ## 🗒️ Summary
 Coming Soon...
@@ -17,6 +17,8 @@ Coming Soon...
 2. Components of ADK
 3. How to configure ADK
 4. Ways to Interact with your agent
+5. ADK - First Agent Hands On
+6. Empower ADK with Tools - Hands On
 
 ### Build Multi-Agent systems with ADK
 
