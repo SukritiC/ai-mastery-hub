@@ -11,7 +11,7 @@
 The Agent Development Kit (ADK) by Google Cloud is a Python-based SDK designed to help developers build, manage, and deploy powerful AI agents and multi-agent systems with ease, even without deep AI expertise. It supports flexible development approaches—from conversational agents and internal knowledge tools to fully custom systems using LangChain or the Gen AI SDK. ADK enables real-time, LLM-powered interactions with built-in memory, artifact storage, orchestration, evaluation tools, and seamless deployment via Agent Engine. It also integrates with external APIs, supports code execution, and promotes modular, collaborative development using tools and models like Gemini or other LLMs.
 
 ### Part 2
-Coming Soon...
+ADK (Agent Development Kit) helps build structured multi-agent systems using a tree-based architecture, with LLM agents for intelligent tasks and workflow agents (Sequential, Loop, Parallel, Custom) for deterministic flows. It supports callbacks for customization and control, local testing, and scalable deployment via Agent Engine on Vertex AI. ADK also includes evaluation tools for response accuracy and tool usage, ensuring reliable, production-ready agents.
 
 
 ## 📚 Table of Contents
@@ -53,5 +53,16 @@ Coming Soon...
        3. Parallel Agent
 
 ### Deploy ADK agent to Agent Engine
+1. Develop & Deploy agents with Agent Engine
+   1. Develop & Test
+   2. Deploy
+   3. Query
+2. Hands On
 
 ### Evaluate ADK agent system
+1. Evaluating the final response
+2. Evaluating Trajectory and Tool Use
+3. ADK Evaluation Methods
+   1. Using Test file
+   2. Using Evalset
+4. How to run an evaluation with ADK
