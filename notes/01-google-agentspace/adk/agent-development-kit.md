@@ -2,7 +2,7 @@
 
 📘 <a href='https://fern-stop-81f.notion.site/Agent-Development-Kit-ADK-22713f9f5c0380a5bddee40b44f89076'> Agent Development Kit (ADK) - Part 1 </a> 
 <br/><br/>
-📘 <a href='#'> Part 2 Link Coming Soon... </a> 
+📘 <a href='https://fern-stop-81f.notion.site/Agent-Development-Kit-ADK-Part-2-22713f9f5c038051bb99f9d18841bc89#22d13f9f5c0380e28465c425c3f59157'> Agent Development Kit (ADK) - Part 2 </a> 
 <br/>
 <br/>
 
