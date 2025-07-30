@@ -1,6 +1,6 @@
 # App Development with Gemini Code Assist
 
-📘 <a href='#'> Coming Soon... </a> 
+📘 <a href='#'> Link Coming Soon... </a> 
 <!-- <br/><br/>
 📘 <a href='https://fern-stop-81f.notion.site/Agent-Development-Kit-ADK-Part-2-22713f9f5c038051bb99f9d18841bc89#22d13f9f5c0380e28465c425c3f59157'> Agent Development Kit (ADK) - Part 2 </a> 
 <br/>

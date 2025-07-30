@@ -42,8 +42,11 @@ ai-mastery-hub/
    │   │   │   └── parent_and_subagents/
    │   │   │   └── workflow_agents/
    │   │   │
-   │   │   ├── adk_to_agent_engine/
-   │   │   │   └── transcript_summarization_agent/
+   │   │   └── adk_to_agent_engine/
+   │   │       └── transcript_summarization_agent/
+   │   │   
+   │   ├── gemini-code-assist/
+   │   │   ├── gemini-code-assist.md
    │   
    ├── 02-professional-machine-learning-engineer/
    │   └── Introduction.md
@@ -67,6 +70,7 @@ ai-mastery-hub/
 1. Study Notes on Agentic AI
    1. Google Agentspace
    2. Agent Development Kit - Part 1 & 2
+   3. App Development with Gemini Code Assist 
 2. Study Notes for Professional Machine Learning Engineer
    1. Introduction
    2. Data Preparation & Modeling
