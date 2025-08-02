@@ -27,6 +27,8 @@ ai-mastery-hub/
    │   ├── notes.md
    │   ├── adk/
    │   │   ├── agent-development-kit.md
+   │   │   ├── agen-with-agent-engine-in-vertex-ai.md
+   │   │   │     
    │   │   ├── adk_project/
    │   │   │   └── app_agent/
    │   │   │   └── llm_auditor/
@@ -71,6 +73,7 @@ ai-mastery-hub/
    1. Google Agentspace
    2. Agent Development Kit - Part 1 & 2
    3. App Development with Gemini Code Assist 
+   4. Build and Deploy an Agent with Agent Engine in Vertex AI
 2. Study Notes for Professional Machine Learning Engineer
    1. Introduction
    2. Data Preparation & Modeling
