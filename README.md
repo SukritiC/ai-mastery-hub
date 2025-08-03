@@ -15,7 +15,7 @@ Whether you're just getting started, already deep into prompts and models, or so
 - 📓 **Session Notes**: Clean summaries from webinars, conferences, YouTube videos, or hands-on workshops.
 - 🧾 **Concept Breakdowns**: Easy-to-understand explanations of complex topics like Transformers, Diffusion Models, LLMs, etc.
 - 🔗 **Notion Links**: Published notes hosted on Notion for better readability.
-- 🛠️ **Resources**: Books, YouTube channels, GitHub repos, tools & more.
+- 🛠️ **Resources**: Books, YouTube channels, GitHub repos, tools & Sample codes etc...
 
 ---
 ## 📁 Folder Structure
@@ -26,9 +26,11 @@ ai-mastery-hub/
    ├── 01-google-agentspace/
    │   ├── notes.md
    │   ├── adk/
+   │   │   ├── agen-with-agent-engine-in-vertex-ai.md 
+   │   │   ├── agent-in-vertex-ai-sample-code/
+   │   │   │   └── intro_agent_engine-v2.0.0.ipynb
+   │   │   │ 
    │   │   ├── agent-development-kit.md
-   │   │   ├── agen-with-agent-engine-in-vertex-ai.md
-   │   │   │     
    │   │   ├── adk_project/
    │   │   │   └── app_agent/
    │   │   │   └── llm_auditor/
@@ -48,7 +50,7 @@ ai-mastery-hub/
    │   │       └── transcript_summarization_agent/
    │   │   
    │   ├── gemini-code-assist/
-   │   │   ├── gemini-code-assist.md
+   │   │   └── gemini-code-assist.md
    │   
    ├── 02-professional-machine-learning-engineer/
    │   └── Introduction.md
@@ -61,6 +63,8 @@ ai-mastery-hub/
    │   └── using-gemini-in-bigquery.md
    │   └── work-with-gemini-models-in-big-query.md
    │
+   ├── 04-deploy-and-manage-gen-ai-models/
+   │   └── ml-ops-for-gen-ai.md
 ```
 
 ---
@@ -69,21 +73,22 @@ ai-mastery-hub/
 
 > A growing list of everything I’m learning in the GenAI space:
 
-1. Study Notes on Agentic AI
+1. **Study Notes on Agentic AI**
    1. Google Agentspace
    2. Agent Development Kit - Part 1 & 2
    3. App Development with Gemini Code Assist 
-   4. Build and Deploy an Agent with Agent Engine in Vertex AI
-2. Study Notes for Professional Machine Learning Engineer
+   4. Build and Deploy an Agent with Agent Engine in Vertex AI - **Hands On Lab**
+2. **Study Notes for Professional Machine Learning Engineer**
    1. Introduction
    2. Data Preparation & Modeling
    3. Build, Train & Deploy ML Models with Keras on Google Cloud
    4. Predictive Modelling with BigQuery ML - Part 1
    5. Responsible AI for Dev's Privacy and safety
-3. Study Notes for Data Engineering 
+3. **Study Notes for Data Engineering**
    1. Using Gemini in BigQuery
    2. Work with Gemini Models in BigQuery
-5. 
+4. **Study Notes for Deploying & Managing Gen AI Models**
+   1. MLOps for Generative AI
    
 
 ---
