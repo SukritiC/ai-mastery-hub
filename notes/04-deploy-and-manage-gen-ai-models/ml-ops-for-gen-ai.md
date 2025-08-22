@@ -30,5 +30,5 @@ Overall, the notes serve as a guide to navigating the complexities of modern mod
    4. Best Practices for LLM Evaluation
    5. Solving Evaluation Challenges
    6. Streamlining Model evaluation with computation based Metrics
-   7. Comparnig performances with Model based evaluation
+   7. Comparing performances with Model based evaluation
    
