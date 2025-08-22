@@ -88,7 +88,7 @@ ai-mastery-hub/
    1. Using Gemini in BigQuery
    2. Work with Gemini Models in BigQuery
 4. **Study Notes for Deploying & Managing Gen AI Models**
-   1. MLOps for Generative AI
+   1. MLOps with Vertex AI : Model Evaluation
    
 
 ---
