@@ -54,6 +54,7 @@ Here’s a quick look at how the Land Image Analyser Landing Page looks like.
   <img src="src/6img.png" alt="Land Image Analyser Demo" width="800"/>
 <br/>
 </p>
+
 ---
 
 ## 🎯 About The Project
@@ -120,16 +121,16 @@ I’m always open to connecting with **developers**, **AI enthusiasts**, and **i
 Let’s connect, collaborate, and create impact together!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sukritichatterjee/" target="_blank" style="margin-right: 25px;">
+  <a href="https://www.linkedin.com/in/sukritichatterjee/" target="_blank" style="margin-right: 45px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/SukritiC" target="_blank" style="margin-right: 25px;">
+  <a href="https://github.com/SukritiC" target="_blank" style="margin-right: 45px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
   </a>
-   <a href="https://sukriti-speaks.medium.com/" target="_blank" style="margin-right: 25px;">
+   <a href="https://sukriti-speaks.medium.com/" target="_blank" style="margin-right: 45px;">
     <img src="src/medium.png" width="40" height="40" alt="Medium"/>
   </a>
-    <a href="https://www.youtube.com/@TechDev_Insights" target="_blank" style="margin-right: 25px;">
+    <a href="https://www.youtube.com/@TechDev_Insights" target="_blank" style="margin-right: 45px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="55" height="40" alt="X (Twitter)"/>
   </a>
   <a href="https://x.com/SukritiSpeak" target="_blank">
