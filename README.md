@@ -14,6 +14,9 @@ Whether you're just getting started, already deep into prompts and models, or so
 
 - 📓 **Session Notes**: Clean summaries from webinars, conferences, YouTube videos, or hands-on workshops.
 - 🧾 **Concept Breakdowns**: Easy-to-understand explanations of complex topics like Transformers, Diffusion Models, LLMs, etc.
+- 🧩 **AI Projects & MVPs**: End-to-end, hands-on implementations of AI and GenAI ideas — built to explore real-world applications of learned concepts.  
+  Includes projects like:  
+  - 🌾 **Land Image Analyser** – AI-powered AgriTech MVP using Google Cloud Run, Vertex AI & Gemini 2.5 Pro.  
 - 🔗 **Notion Links**: Published notes hosted on Notion for better readability.
 - 🛠️ **Resources**: Books, YouTube channels, GitHub repos, tools & Sample codes etc...
 
@@ -23,6 +26,10 @@ Whether you're just getting started, already deep into prompts and models, or so
 ```bash
 ai-mastery-hub/
 📁 notes/
+   ├── Projects-MVP  🔥
+   │   ├── 01-AI-land-image-analyzer/ 🔥
+   │   │   └── README.md 🔥
+   │   
    ├── 01-google-agentspace/
    │   ├── notes.md
    │   ├── adk/
@@ -90,7 +97,15 @@ ai-mastery-hub/
 4. **Study Notes for Deploying & Managing Gen AI Models**
    1. MLOps with Vertex AI : Model Evaluation
    
+---
 
+## 🚀 Projects & MVPs Index  &nbsp; 🆕
+
+> Practical implementations of ideas explored through my learning journey.
+
+1. 🌾 **Land Image Analyser**  
+   AI-powered AgriTech MVP built using **FastAPI**, **Google Cloud Run**, **Vertex AI**, and **Gemini 2.5 Pro**.  
+   
 ---
 
 ## 📖 How to Use / Read the Notes
@@ -151,12 +166,27 @@ Feel free to share them with your peers, friends, or anyone in your learning cir
 
 ## 💬 Let's Connect
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/sukritichatterjee/" target="_blank" style="margin-right: 15px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/SukritiC" target="_blank" style="margin-right: 15px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  </a>
+   <a href="https://sukriti-speaks.medium.com/" target="_blank" style="margin-right: 15px;">
+    <img src="assets/medium.png" width="40" height="40" alt="Medium"/>
+  </a>
+    <a href="https://www.youtube.com/@TechDev_Insights" target="_blank" style="margin-right: 15px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="55" height="40" alt="X (Twitter)"/>
+  </a>
+  <a href="https://x.com/SukritiSpeak" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Twitter_new_X_logo.png" width="40" height="40" alt="X (Twitter)"/>
+  </a>
+</p>
 
-🔗 [Medium](https://sukriti-speaks.medium.com/)
-🔗 [LinkedIn](https://www.linkedin.com/in/sukritichatterjee/)
-🔗 [X(Twitter)](https://x.com/SukritiSpeak/)
-🔗 [Commudle Profile](https://www.commudle.com/users/SukritiC)
 <br/>
+
+🔗 [Commudle Profile](https://www.commudle.com/users/SukritiC)
 🔗 [Google Cloud Badges](https://www.cloudskillsboost.google/public_profiles/53df2710-444d-4f31-9c37-6c87dfcf102f)
 🔗 [Accredible Credential](https://www.credential.net/profile/sukritichatterjee/wallet)
 🔗 [Credly Badges](https://www.credly.com/users/sukriti-chatterjee.aadce67f)
