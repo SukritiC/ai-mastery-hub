@@ -16,12 +16,12 @@
 
 Explore the complete journey of the Land Image Analyser — from idea to working MVP — through a detailed video demo and an in-depth technical blog.
 
-### **MVP Video Demo** <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="24" style="vertical-align: middle;"/> 
+### **MVP Video Demo** &nbsp;&nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="34" style="vertical-align: middle;"/> 
 
 Experience the end-to-end walkthrough of the project — covering the architecture, Google Cloud setup, and real-time AI insights in action.
 [Watch the MVP Demo on YouTube](https://youtu.be/OfVCkquWBR4)
 
-### **Deep Dive into the MVP Blog**  <img src="src/medium.png" width="24" style="vertical-align: middle;"/> 
+### **Deep Dive into the MVP Blog** &nbsp;&nbsp; <img src="src/medium.png" width="34" style="vertical-align: middle;"/> 
 
 Dive into the complete story behind the build — the problem statement, solution design, and lessons learned while developing this AI-powered land analysis MVP.
  [Read the Full Blog on Medium](https://sukriti-speaks.medium.com/land-image-analyzer-ai-powered-land-crop-insight-platform-fcca6c8c6065)
@@ -31,14 +31,29 @@ Dive into the complete story behind the build — the problem statement, solutio
 ---
 
 ## ✨ MVP Prototype Glimpse
-
-Here’s a quick look at how the Land Image Analyser works. A user uploads an image, asks a question, and receives an instant, AI-driven analysis.
+Here’s a quick look at how the Land Image Analyser Landing Page looks like. 
 
 <p align="center">
-  <!-- TODO: Replace this placeholder with a high-quality GIF or screenshot of the application in action. -->
   <img src="src/landing_page.png" alt="Land Image Analyser Demo" width="800"/>
 </p>
 
+
+<p align="center">
+<span style="font-size: 14px; font-weight: bold;">A user uploads an image, asks a question, and receives an instant, AI-driven analysis.</span>
+<br/>
+  <img src="src/1img.png" alt="Land Image Analyser Demo" width="400"/>
+  <img src="src/2img.png" alt="Land Image Analyser Demo" width="400"/>
+<br/><br/>
+<span style="font-size: 14px; font-weight: bold;">Crop Suggestion Given : with or without Location tracking enabled respectively ⬇️</span>
+<br/>
+  <img src="src/3img.png" alt="Land Image Analyser Demo" width="400"/>
+  <img src="src/4img.png" alt="Land Image Analyser Demo" width="400"/>
+<br/><br/>
+<span style="font-size: 14px; font-weight: bold;">Chat Option Given : To ask follow-up questions ⬇️</span>
+<br/>
+  <img src="src/6img.png" alt="Land Image Analyser Demo" width="800"/>
+<br/>
+</p>
 ---
 
 ## 🎯 About The Project
@@ -105,16 +120,16 @@ I’m always open to connecting with **developers**, **AI enthusiasts**, and **i
 Let’s connect, collaborate, and create impact together!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sukritichatterjee/" target="_blank" style="margin-right: 15px;">
+  <a href="https://www.linkedin.com/in/sukritichatterjee/" target="_blank" style="margin-right: 25px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/SukritiC" target="_blank" style="margin-right: 15px;">
+  <a href="https://github.com/SukritiC" target="_blank" style="margin-right: 25px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
   </a>
-   <a href="https://sukriti-speaks.medium.com/" target="_blank" style="margin-right: 15px;">
+   <a href="https://sukriti-speaks.medium.com/" target="_blank" style="margin-right: 25px;">
     <img src="src/medium.png" width="40" height="40" alt="Medium"/>
   </a>
-    <a href="https://www.youtube.com/@TechDev_Insights" target="_blank" style="margin-right: 15px;">
+    <a href="https://www.youtube.com/@TechDev_Insights" target="_blank" style="margin-right: 25px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="55" height="40" alt="X (Twitter)"/>
   </a>
   <a href="https://x.com/SukritiSpeak" target="_blank">
