@@ -167,16 +167,16 @@ Feel free to share them with your peers, friends, or anyone in your learning cir
 ## 💬 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sukritichatterjee/" target="_blank" style="margin-right: 15px;">
+  <a href="https://www.linkedin.com/in/sukritichatterjee/" target="_blank" style="margin-right: 25px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/SukritiC" target="_blank" style="margin-right: 15px;">
+  <a href="https://github.com/SukritiC" target="_blank" style="margin-right: 25px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
   </a>
-   <a href="https://sukriti-speaks.medium.com/" target="_blank" style="margin-right: 15px;">
+   <a href="https://sukriti-speaks.medium.com/" target="_blank" style="margin-right: 25px;">
     <img src="assets/medium.png" width="40" height="40" alt="Medium"/>
   </a>
-    <a href="https://www.youtube.com/@TechDev_Insights" target="_blank" style="margin-right: 15px;">
+    <a href="https://www.youtube.com/@TechDev_Insights" target="_blank" style="margin-right: 25px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="55" height="40" alt="X (Twitter)"/>
   </a>
   <a href="https://x.com/SukritiSpeak" target="_blank">
