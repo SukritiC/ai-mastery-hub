@@ -16,7 +16,8 @@ Whether you're just getting started, already deep into prompts and models, or so
 - 🧾 **Concept Breakdowns**: Easy-to-understand explanations of complex topics like Transformers, Diffusion Models, LLMs, etc.
 - 🧩 **AI Projects & MVPs**: End-to-end, hands-on implementations of AI and GenAI ideas — built to explore real-world applications of learned concepts.  
   Includes projects like:  
-  - 🌾 **Land Image Analyser** – AI-powered AgriTech MVP using Google Cloud Run, Vertex AI & Gemini 2.5 Pro.  
+  - **Land Image Analyser** – AI-powered AgriTech MVP using Google Cloud Run, Vertex AI & Gemini 2.5 Pro.
+  - **GeoShift-Change-Detection** - GeoShift is an MVP system that detects and visualizes landscape changes using multi-temporal satellite imagery.
 - 🔗 **Notion Links**: Published notes hosted on Notion for better readability.
 - 🛠️ **Resources**: Books, YouTube channels, GitHub repos, tools & Sample codes etc...
 
@@ -29,6 +30,8 @@ ai-mastery-hub/
    ├── Projects-MVP  🔥
    │   ├── 01-AI-land-image-analyzer/ 🔥
    │   │   └── README.md 🔥
+   │   ├── 02-GeoShift-Change-Detection/ 🔥
+   │   │   └── README.md 🔥   
    │   
    ├── 01-google-agentspace/
    │   ├── notes.md
@@ -104,7 +107,9 @@ ai-mastery-hub/
 > Practical implementations of ideas explored through my learning journey.
 
 1. 🌾 **Land Image Analyser**  
-   AI-powered AgriTech MVP built using **FastAPI**, **Google Cloud Run**, **Vertex AI**, and **Gemini 2.5 Pro**.  
+   AI-powered AgriTech MVP built using **FastAPI**, **Google Cloud Run**, **Vertex AI**, and **Gemini 2.5 Pro**.
+2. 🌍 **GeoShift-Change-Detection**   GeoShift is an MVP system that detects and visualizes landscape changes using multi-temporal satellite imagery.
+3. 
    
 ---
 
