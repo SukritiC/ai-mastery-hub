@@ -113,51 +113,40 @@ ai-mastery-hub/
    
    ---
 
-## <a href="https://www.youtube.com/channel/UC9QJnm18hr2fBB5-BPXVv3w" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="30" height="20" alt="YouTube" style="vertical-align: middle;"/></a> Recently Posted YT Content
+## <a href="https://www.youtube.com/channel/UC9QJnm18hr2fBB5-BPXVv3w" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="30" height="20" alt="YouTube" style="vertical-align: middle;"/> Fresh from my YouTube - Technical Insights</a>
 
 > Staying active and sharing knowledge through quick educational shots and deep dives.
 
-<div class="video-grid">
-  <!-- Video 1: Deploy on Cloud Run -->
-  <a href="https://www.youtube.com/shorts/Mk7IFheuvOw" class="video-card" target="_blank">
-    <div class="video-thumbnail">
-      <img src="https://img.youtube.com/vi/Mk7IFheuvOw/maxresdefault.jpg" alt="Deploy on Cloud Run" />
-    </div>
-    <div class="video-info">
-      <p class="video-title">Pydantic to FastAPI</p>
-    </div>
-  </a>
-
-  <!-- Video 2: Docker Setup for Local Dev -->
-  <a href="https://www.youtube.com/shorts/r3jE45ekJvM" class="video-card" target="_blank">
-    <div class="video-thumbnail">
-      <img src="https://img.youtube.com/vi/r3jE45ekJvM/maxresdefault.jpg" alt="Docker Setup for Local Dev" />
-    </div>
-    <div class="video-info">
-      <p class="video-title">Docker Setup for Local Dev (Fast & Clean)</p>
-    </div>
-  </a>
-
-  <!-- Video 3: Dark Mode Toggle -->
-  <a href="https://www.youtube.com/shorts/M9xUHmQM7g0" class="video-card" target="_blank">
-    <div class="video-thumbnail">
-      <img src="https://img.youtube.com/vi/M9xUHmQM7g0/maxresdefault.jpg" alt="Dark Mode Toggle in React" />
-    </div>
-    <div class="video-info">
-      <p class="video-title">Dark Mode Toggle in React — Surprisingly Easy</p>
-    </div>
-  </a>
-
-    
-  <a href="https://www.youtube.com/watch?v=OfVCkquWBR4" class="video-card" target="_blank">
-    <div class="video-thumbnail">
-      <img src="https://img.youtube.com/vi/OfVCkquWBR4/maxresdefault.jpg" alt="Text-to-speech implementation" />
-    </div>
-    <div class="video-info">
-      <p class="video-title">Project MVP of Land Image Analyser</p>
-    </div>
-  </a>
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://www.youtube.com/shorts/Mk7IFheuvOw" target="_blank">
+        <img src="https://img.youtube.com/vi/Mk7IFheuvOw/maxresdefault.jpg" alt="Pydantic to FastAPI" width="100%" />
+      </a>
+      <p align="center"><strong>Pydantic to FastAPI</strong></p>
+    </td>
+    <td width="50%">
+      <a href="https://www.youtube.com/shorts/r3jE45ekJvM" target="_blank">
+        <img src="https://img.youtube.com/vi/r3jE45ekJvM/maxresdefault.jpg" alt="Docker Setup for Local Dev" width="100%" />
+      </a>
+      <p align="center"><strong>Docker Setup for Local Dev (Fast & Clean)</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://www.youtube.com/shorts/M9xUHmQM7g0" target="_blank">
+        <img src="https://img.youtube.com/vi/M9xUHmQM7g0/maxresdefault.jpg" alt="Dark Mode Toggle in React" width="100%" />
+      </a>
+      <p align="center"><strong>Dark Mode Toggle in React — Surprisingly Easy</strong></p>
+    </td>
+    <td width="50%">
+      <a href="https://www.youtube.com/watch?v=OfVCkquWBR4" target="_blank">
+        <img src="https://img.youtube.com/vi/OfVCkquWBR4/maxresdefault.jpg" alt="Text-to-speech implementation" width="100%" />
+      </a>
+      <p align="center"><strong>Project MVP of Land Image Analyser</strong></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
