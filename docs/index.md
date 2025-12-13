@@ -1,95 +1,98 @@
-# 🤖 AI Mastery Hub
+# AI Mastery Hub
 
 Welcome to my personal **Generative AI Learning Journal** – a curated space where I document my journey into the world of **Artificial Intelligence** and **Generative AI** 🌟
 
-<p align="center">
-  <img src="../assets/banner.jpg" alt="GenAI Notes Journal Banner" />
-</p>
-
-I’m **Sukriti C**, a passionate developer and AI enthusiast exploring the frontiers of **Generative AI**. This journal is my personal knowledge base, documenting everything from rapid prototypes to deep dives into Agentic AI and ML Engineering.
-
-Whether you're just getting started or already deep into models, feel free to explore and learn with me!
-
----
-
-## 🧠 What's Inside?
-
-- 📓 **Session Notes & Breakdowns**: Clean summaries and easy explanations of complex topics like Transformers, LLMs, and Diffusion Models.
-- 🧩 **Hands-on Projects**: Real-world implementations like **Land Image Analyser** (AgriTech MVP) and **GeoShift** (Satellite Change Detection).
-- 🛠️ **Resources**: Curated tools, books, and code samples to accelerate your learning.
+<div class="intro-container" style="display: flex; align-items: center; gap: 30px;">
+  <div class="intro-image" style="flex: 0 0 200px;">
+    <img src="assets/profile.jpg" alt="Sukriti C" onerror="this.src='https://upload.wikimedia.org/wikipedia/commons/7/7c/Profile_avatar_placeholder_large.png'"/>
+  </div>
+  <div class="intro-text" style="flex: 1;">
+    <p>Hi, I’m <strong>Sukriti C</strong>! 👋 Welcome to my personal knowledge base.</p>
+    <p>I'm a passionate developer and AI enthusiast, and this is where I document my journey into the world of <strong>Generative AI</strong>. From rapid prototypes to deep dives into Agentic AI and ML Engineering—everything I learn lives here.</p>
+    <p>Whether you're just getting started or already deep into models, feel free to explore and learn with me!</p>
+  </div>
+</div>
 
 ---
 
+## What's Inside?
 
-## 🧭 Explore Notes
+This hub is a comprehensive archive of my Generative AI learning journey, featuring detailed notes on complex topics like Transformers and LLMs. It showcases real-world implementations through hands-on projects such as the Land Image Analyser and GeoShift. You'll also find a curated collection of tools, books, and code samples designed to accelerate your own path to AI mastery.
 
-<div class="note-grid">
+---
+
+
+## Explore My Notes
+
+<table>
+  <tr>
+    <td width="50%">
   <!-- Card 1: Agentic AI -->
   <a href="notes/01-google-agentspace/notes/" class="note-card">
     <div class="note-thumbnail">
-      <img src="../assets/thumbnails/agentic-ai.jpg" alt="Agentic AI" onerror="this.src='../assets/banner.jpg'"/>
+      <img src="assets/thumbnails/agentic-ai.jpg" alt="Agentic AI" onerror="this.src='assets/banner.jpg'"/>
     </div>
     <div class="note-content">
       <p class="note-title">🤖 Agentic AI</p>
       <p class="note-desc">Deep dive into Google Agentspace, Agent Development Kit (ADK), and building autonomous agents.</p>
     </div>
   </a>
-
+</td>
+<td width="50%">
   <!-- Card 2: ML Engineering -->
   <a href="notes/02-professional-machine-learning-engineer/Introduction/" class="note-card">
     <div class="note-thumbnail">
-      <img src="../assets/thumbnails/ml-engineer.jpg" alt="ML Engineering" onerror="this.src='../assets/banner.jpg'"/>
+      <img src="assets/thumbnails/ml-engineer.jpg" alt="ML Engineering" onerror="this.src='assets/banner.jpg'"/>
     </div>
     <div class="note-content">
       <p class="note-title">🧠 ML Engineering</p>
       <p class="note-desc">Comprehensive path for the Professional ML Engineer certification, covering data prep to modeling.</p>
     </div>
   </a>
-
+</td></tr>
+<tr>
+<td width="50%">
   <!-- Card 3: Data Engineering -->
   <a href="notes/03-data-engineer-learning/using-gemini-in-bigquery/" class="note-card">
     <div class="note-thumbnail">
-      <img src="../assets/thumbnails/data-engineering.jpg" alt="Data Engineering" onerror="this.src='../assets/banner.jpg'"/>
+      <img src="assets/thumbnails/data-engineering.jpg" alt="Data Engineering" onerror="this.src='assets/banner.jpg'"/>
     </div>
     <div class="note-content">
       <p class="note-title">📊 Data Engineering</p>
       <p class="note-desc">Leveraging Gemini in BigQuery, modern data pipelines, and cloud data architecture.</p>
     </div>
   </a>
-
+</td>
+<td width="50%">  
   <!-- Card 4: Projects & MVPs -->
   <a href="notes/Projects-MVP/01-AI-land-image-analyzer/" class="note-card">
     <div class="note-thumbnail">
-      <img src="../assets/thumbnails/projects.jpg" alt="Projects & MVPs" onerror="this.src='../assets/banner.jpg'"/>
+      <img src="assets/thumbnails/projects.jpg" alt="Projects & MVPs" onerror="this.src='assets/banner.jpg'"/>
     </div>
     <div class="note-content">
       <p class="note-title">🚀 Projects & MVPs</p>
       <p class="note-desc">Hands-on implementations: Land Image Analyser, GeoShift Change Detection, and more.</p>
     </div>
   </a>
-
+</td></tr>
+<tr>
+<td width="50%">
   <!-- Card 5: Deployment & MLOps -->
   <a href="notes/04-deploy-and-manage-gen-ai-models/ml-ops-for-gen-ai/" class="note-card">
     <div class="note-thumbnail">
-      <img src="../assets/thumbnails/mlops.jpg" alt="Deployment & MLOps" onerror="this.src='../assets/banner.jpg'"/>
+      <img src="assets/thumbnails/mlops.jpg" alt="Deployment & MLOps" onerror="this.src='assets/banner.jpg'"/>
     </div>
     <div class="note-content">
       <p class="note-title">🛠️ Deployment & MLOps</p>
       <p class="note-desc">Strategies for deploying and managing Generative AI models in production environments.</p>
     </div>
   </a>
-</div>
+</td></tr>
+</table>
 
 ---
 
-## 📁 Source Code
-
-Want to explore the raw files or clone the repo?  
-👉 **[View on GitHub](https://github.com/SukritiC/ai-mastery-hub)**
-
----
-
-## 📚 Notes Index
+## Notes Index
 
 > A growing list of everything I’m learning in the GenAI space:
 
@@ -162,6 +165,12 @@ Want to explore the raw files or clone the repo?
 
 ---
 
+## 📁 Source Code
+
+Want to explore the raw files or clone the repo?  
+👉 **[View on GitHub](https://github.com/SukritiC/ai-mastery-hub)**
+
+---
 
 
 ## 📌 Why I Made This
@@ -210,7 +219,7 @@ Feel free to share them with your peers, friends, or anyone in your learning cir
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
   </a>
    <a href="https://sukriti-speaks.medium.com/" target="_blank" style="margin-right: 45px;">
-    <img src="../assets/medium.png" width="40" height="40" alt="Medium"/>
+    <img src="assets/medium.png" width="40" height="40" alt="Medium"/>
   </a>
     <a href="https://www.youtube.com/@TechDev_Insights" target="_blank" style="margin-right: 45px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="55" height="40" alt="X (Twitter)"/>

@@ -1,4 +1,4 @@
-# 🤖 AI Mastery Hub
+# AI Mastery Hub
 
 Welcome to my personal **Generative AI Learning Journal** – a curated space where I document my journey into the world of **Artificial Intelligence** and **Generative AI** 🌟
 
@@ -10,7 +10,7 @@ Whether you're just getting started, already deep into prompts and models, or so
 
 ---
 
-## 🧠 What's Inside?
+## What's Inside?
 
 - 📓 **Session Notes**: Clean summaries from webinars, conferences, YouTube videos, or hands-on workshops.
 - 🧾 **Concept Breakdowns**: Easy-to-understand explanations of complex topics like Transformers, Diffusion Models, LLMs, etc.
@@ -25,8 +25,8 @@ Whether you're just getting started, already deep into prompts and models, or so
 ## 📁 Folder Structure
 
 ```bash
-ai-mastery-hub/
-📁 notes/
+ai-mastery-hub/docs/
+📁 /notes/
    ├── Projects-MVP  🔥
    │   ├── 01-AI-land-image-analyzer/ 🔥
    │   │   └── README.md 🔥
