@@ -28,27 +28,28 @@ This hub is a comprehensive archive of my Generative AI learning journey, featur
   <tr>
     <td width="50%">
   <!-- Card 1: Agentic AI -->
-  <a href="notes/01-google-agentspace/notes/" class="note-card">
+  <a href="notes/01-google-agentspace/" class="note-card">
     <div class="note-thumbnail">
       <img src="assets/thumbnails/agentic-ai.jpg" alt="Agentic AI" onerror="this.src='assets/banner.jpg'"/>
     </div>
     <div class="note-content">
-      <p class="note-title">🤖 Agentic AI</p>
+      <p class="note-title"> <b>Agentic AI</b></p>
       <p class="note-desc">Deep dive into Google Agentspace, Agent Development Kit (ADK), and building autonomous agents.</p>
     </div>
   </a>
 </td>
 <td width="50%">
-  <!-- Card 2: ML Engineering -->
-  <a href="notes/02-professional-machine-learning-engineer/Introduction/" class="note-card">
+  <!-- Card 4: Projects & MVPs -->
+  <a href="notes/Projects-mvp/01-AI-land-image-analyzer/" class="note-card">
     <div class="note-thumbnail">
-      <img src="assets/thumbnails/ml-engineer.jpg" alt="ML Engineering" onerror="this.src='assets/banner.jpg'"/>
+      <img src="assets/thumbnails/projects.jpg" alt="Projects & MVPs" onerror="this.src='assets/banner.jpg'"/>
     </div>
     <div class="note-content">
-      <p class="note-title">🧠 ML Engineering</p>
-      <p class="note-desc">Comprehensive path for the Professional ML Engineer certification, covering data prep to modeling.</p>
+      <p class="note-title"><b>Projects & MVPs</b></p>
+      <p class="note-desc">Hands-on implementations: Land Image Analyser, GeoShift Change Detection, and more.</p>
     </div>
   </a>
+ 
 </td></tr>
 <tr>
 <td width="50%">
@@ -58,20 +59,20 @@ This hub is a comprehensive archive of my Generative AI learning journey, featur
       <img src="assets/thumbnails/data-engineering.jpg" alt="Data Engineering" onerror="this.src='assets/banner.jpg'"/>
     </div>
     <div class="note-content">
-      <p class="note-title">📊 Data Engineering</p>
+      <p class="note-title"><b>Data Engineering</b></p>
       <p class="note-desc">Leveraging Gemini in BigQuery, modern data pipelines, and cloud data architecture.</p>
     </div>
   </a>
 </td>
 <td width="50%">  
-  <!-- Card 4: Projects & MVPs -->
-  <a href="notes/Projects-MVP/01-AI-land-image-analyzer/" class="note-card">
+ <!-- Card 2: ML Engineering -->
+  <a href="notes/02-professional-machine-learning-engineer/" class="note-card">
     <div class="note-thumbnail">
-      <img src="assets/thumbnails/projects.jpg" alt="Projects & MVPs" onerror="this.src='assets/banner.jpg'"/>
+      <img src="assets/thumbnails/ml-engineer.jpg" alt="ML Engineering" onerror="this.src='assets/banner.jpg'"/>
     </div>
     <div class="note-content">
-      <p class="note-title">🚀 Projects & MVPs</p>
-      <p class="note-desc">Hands-on implementations: Land Image Analyser, GeoShift Change Detection, and more.</p>
+      <p class="note-title"><b>ML Engineering</b></p>
+      <p class="note-desc">Comprehensive path for the Professional ML Engineer certification, covering data prep to modeling.</p>
     </div>
   </a>
 </td></tr>
@@ -83,7 +84,7 @@ This hub is a comprehensive archive of my Generative AI learning journey, featur
       <img src="assets/thumbnails/mlops.jpg" alt="Deployment & MLOps" onerror="this.src='assets/banner.jpg'"/>
     </div>
     <div class="note-content">
-      <p class="note-title">🛠️ Deployment & MLOps</p>
+      <p class="note-title"><b>Deployment & MLOps</b></p>
       <p class="note-desc">Strategies for deploying and managing Generative AI models in production environments.</p>
     </div>
   </a>
