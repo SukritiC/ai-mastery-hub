@@ -51,7 +51,33 @@ Below is the visual interface of the GeoShift app detecting landscape changes us
 
 ---
 
-## Methodology
+
+## <a href="https://youtube.com/playlist?list=PLUlKq_lSKQiOMmrHGozPlZOLDXdEVa5z_&si=6dBwr8bGupUUI7S-" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="30" height="20" alt="YouTube" style="vertical-align: middle;"/>  YouTube Series: Building GeoShift</a>
+
+> This repository is accompanied by a YouTube Shorts series titled **“Building GeoShift: Geospatial ML Project.”** 
+
+The objective of the series is to document and explain the complete journey of the GeoShift project in a simple and practical way — covering:
+
+1. What GeoShift is and the problem it solves
+2. Why automated land-change detection is important
+3. How satellite imagery and machine learning are used
+4. Technical decisions behind the MVP
+5. Real-world use cases and future possibilities
+
+The series is designed to break down complex geospatial and AI concepts into short, easy-to-understand 30-second episodes.
+
+
+## <a href="https://youtube.com/playlist?list=PLUlKq_lSKQiOMmrHGozPlZOLDXdEVa5z_&si=6dBwr8bGupUUI7S-"><img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="30" height="20" alt="YouTube" style="vertical-align: middle;"/> Playlist</a>
+## <a href="https://www.youtube.com/channel/UC9QJnm18hr2fBB5-BPXVv3w"><img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="30" height="20" alt="YouTube" style="vertical-align: middle;"/> Channel</a>
+
+📅 **New episodes are uploaded every Monday.**
+
+Follow along to see how GeoShift evolves from idea to implementation!
+
+
+
+---
+
 
 ### **Spectral Change Detection (MVP baseline)**
 - Compute NDVI/NDWI/NBR for both timestamps

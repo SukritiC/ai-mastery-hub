@@ -32,6 +32,7 @@ ai-mastery-hub/docs/
    │   │   └── README.md 🔥
    │   ├── 02-GeoShift-Change-Detection/ 🔥
    │   │   └── README.md 🔥   
+   │   │   └── Building GeoShift Youtube Playlist 🔥   
    │   
    ├── 01-google-agentspace/
    │   ├── notes.md
@@ -108,7 +109,9 @@ ai-mastery-hub/docs/
 
 1. 🌾 **Land Image Analyser**  
    AI-powered AgriTech MVP built using **FastAPI**, **Google Cloud Run**, **Vertex AI**, and **Gemini 2.5 Pro**.
-2. 🌍 **GeoShift-Change-Detection**   GeoShift is an MVP system that detects and visualizes landscape changes using multi-temporal satellite imagery.
+2. 🌍 **GeoShift-Change-Detection**  
+   GeoShift is an MVP system that detects and visualizes landscape changes using multi-temporal satellite imagery.  
+   Includes a **YouTube playlist** documenting the building process of the MVP.
 
    
    ---
@@ -118,6 +121,14 @@ ai-mastery-hub/docs/
 > Staying active and sharing knowledge through quick educational shots and deep dives.
 
 <table>
+<tr>
+    <td width="50%" colspan="2">
+      <a href="https://youtube.com/playlist?list=PLUlKq_lSKQiOMmrHGozPlZOLDXdEVa5z_&si=6dBwr8bGupUUI7S-" target="_blank">
+        <img src="https://img.youtube.com/vi/RQXIwB0qwLw/maxresdefault.jpg" alt="GeoShift YT Playlist" width="100%" />
+      </a>
+      <p align="center"><strong>Building Geoshift Playlist</strong></p>
+    </td>
+</tr>
   <tr>
     <td width="50%">
       <a href="https://www.youtube.com/shorts/Mk7IFheuvOw" target="_blank">
