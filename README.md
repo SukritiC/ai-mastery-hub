@@ -47,12 +47,14 @@ Whether you're just getting started, already deep into prompts and models, or so
 ```bash
 ai-mastery-hub/docs/
 📁 /notes/
-   ├── Projects-MVP  🔥
-   │   ├── 01-AI-land-image-analyzer/ 🔥
+   ├── Projects-MVP  
+   │   ├── 01-TBRly/ 🔥
    │   │   └── README.md 🔥
-   │   ├── 02-GeoShift-Change-Detection/ 🔥
-   │   │   └── README.md 🔥   
-   │   │   └── Building GeoShift Youtube Playlist 🔥   
+   │   ├── 02-AI-land-image-analyzer/ 
+   │   │   └── README.md 
+   │   ├── 03-GeoShift-Change-Detection/ 
+   │   │   └── README.md 
+   │   │   └── Building GeoShift Youtube Playlist 
    │   
    ├── 01-google-agentspace/
    │   ├── notes.md
