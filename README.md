@@ -10,6 +10,26 @@ Whether you're just getting started, already deep into prompts and models, or so
 
 ---
 
+## 🚀 Projects & MVPs Index  &nbsp; 🆕
+
+> Practical implementations of ideas explored through my learning journey.
+
+1. 📚 **[TBRly](https://tbrly-app.vercel.app/)** - *Newly Launched!*  🔥
+
+   TBRly is a Progressive Web App (PWA) designed for the reading community to gamify and automate their monthly "To Be Read" (TBR) lists. Leveraging Google Vertex AI, TBRly seamlessly integrates with users' reading habits to curate personalized reading selections.  
+     
+   *(Support the [Product Launch](https://tbrly-app.vercel.app/))*
+
+   <a href="https://www.producthunt.com/products/tbrly/reviews/new?utm_source=badge-product_review&utm_medium=badge&utm_source=badge-tbrly" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/product_review.svg?product_id=1249152&theme=light" alt="TBRly - Tackle&#0032;your&#0032;to&#0045;be&#0045;read&#0032;Pile | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
+  2. 🌾 **Land Image Analyser**  
+   AI-powered AgriTech MVP built using **FastAPI**, **Google Cloud Run**, **Vertex AI**, and **Gemini 2.5 Pro**.
+  3. 🌍 **GeoShift-Change-Detection**  
+   GeoShift is an MVP system that detects and visualizes landscape changes using multi-temporal satellite imagery.  
+   Includes a **YouTube playlist** documenting the building process of the MVP.
+   
+   ---
+
 ## What's Inside?
 
 - 📓 **Session Notes**: Clean summaries from webinars, conferences, YouTube videos, or hands-on workshops.
@@ -103,18 +123,6 @@ ai-mastery-hub/docs/
    
 ---
 
-## 🚀 Projects & MVPs Index  &nbsp; 🆕
-
-> Practical implementations of ideas explored through my learning journey.
-
-1. 🌾 **Land Image Analyser**  
-   AI-powered AgriTech MVP built using **FastAPI**, **Google Cloud Run**, **Vertex AI**, and **Gemini 2.5 Pro**.
-2. 🌍 **GeoShift-Change-Detection**  
-   GeoShift is an MVP system that detects and visualizes landscape changes using multi-temporal satellite imagery.  
-   Includes a **YouTube playlist** documenting the building process of the MVP.
-
-   
-   ---
 
 ## <a href="https://www.youtube.com/channel/UC9QJnm18hr2fBB5-BPXVv3w" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="30" height="20" alt="YouTube" style="vertical-align: middle;"/> Fresh from my YouTube - Technical Insights</a>
 
@@ -123,18 +131,18 @@ ai-mastery-hub/docs/
 <table>
 <tr>
     <td width="50%" colspan="2">
-      <a href="https://youtube.com/playlist?list=PLUlKq_lSKQiOMmrHGozPlZOLDXdEVa5z_&si=6dBwr8bGupUUI7S-" target="_blank">
-        <img src="https://img.youtube.com/vi/RQXIwB0qwLw/maxresdefault.jpg" alt="GeoShift YT Playlist" width="100%" />
+      <a href="https://youtu.be/2IAuzL4zHXw" target="_blank">
+        <img src="https://img.youtube.com/vi/2IAuzL4zHXw/maxresdefault.jpg" alt="GeoShift YT Playlist" width="100%" />
       </a>
-      <p align="center"><strong>Building Geoshift Playlist</strong></p>
+      <p align="center"><strong>Product Demo - TBRly</strong></p>
     </td>
 </tr>
   <tr>
     <td width="50%">
-      <a href="https://www.youtube.com/shorts/Mk7IFheuvOw" target="_blank">
-        <img src="https://img.youtube.com/vi/Mk7IFheuvOw/maxresdefault.jpg" alt="Pydantic to FastAPI" width="100%" />
+      <a href="https://youtube.com/shorts/HdSgWNIaNiw" target="_blank">
+        <img src="https://img.youtube.com/vi/HdSgWNIaNiw/maxresdefault.jpg" alt="Pydantic to FastAPI" width="100%" />
       </a>
-      <p align="center"><strong>Pydantic to FastAPI</strong></p>
+      <p align="center"><strong>TBRly UI</strong></p>
     </td>
     <td width="50%">
       <a href="https://www.youtube.com/shorts/r3jE45ekJvM" target="_blank">
