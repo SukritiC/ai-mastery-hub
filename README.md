@@ -55,6 +55,7 @@ ai-mastery-hub/docs/
    │   ├── 03-GeoShift-Change-Detection/ 
    │   │   └── README.md 
    │   │   └── Building GeoShift Youtube Playlist 
+   │   ├── 04-ZeroTab/ 
    │   
    ├── 01-google-agentspace/
    │   ├── notes.md
@@ -240,10 +241,16 @@ Feel free to share them with your peers, friends, or anyone in your learning cir
     <img src="assets/medium.png" width="40" height="40" alt="Medium"/>
   </a>
     <a href="https://www.youtube.com/@TechDev_Insights" target="_blank" style="margin-right: 45px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="55" height="40" alt="X (Twitter)"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="55" height="40" alt="YouTube"/>
   </a>
-  <a href="https://x.com/SukritiSpeak" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Twitter_new_X_logo.png" width="40" height="40" alt="X (Twitter)"/>
+  <a href="https://x.com/SukritiSpeak" target="_blank" style="margin-right: 45px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" alt="X (Twitter)"/>
+  </a>
+  <a href="https://dev.to/sukriti_c" target="_blank" style="margin-right: 45px;">
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="40" height="40" alt="Dev.to"/>
+  </a>
+  <a href="https://www.producthunt.com/products/tbrly?launch=tbrly" target="_blank">
+    <img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1&theme=light" width="180" height="40" alt="Product Hunt"/>
   </a>
 </p>
 
