@@ -1,0 +1,3 @@
+google-genai --upgrade
+langchain-google-genai --upgrade
+langchain-google-vertexai --upgrade
