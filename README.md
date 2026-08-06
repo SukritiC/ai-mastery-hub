@@ -10,9 +10,17 @@ Whether you're just getting started, already deep into prompts and models, or so
 
 ---
 
+## 🌐 Portfolio
+
+Check out my full portfolio and other works on my [Personal Website](https://sukritic.vercel.app/).
+
+---
+
 ## 🚀 Projects & MVPs Index  &nbsp; 🆕
 
 > Practical implementations of ideas explored through my learning journey.
+
+### 1. 📦 Projects I Shipped
 
 1. 📚 **[TBRly](https://tbrly-app.vercel.app/)** - *Newly Launched!*  🔥
 
@@ -22,11 +30,20 @@ Whether you're just getting started, already deep into prompts and models, or so
 
    <a href="https://www.producthunt.com/products/tbrly/reviews/new?utm_source=badge-product_review&utm_medium=badge&utm_source=badge-tbrly" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/product_review.svg?product_id=1249152&theme=light" alt="TBRly - Tackle&#0032;your&#0032;to&#0045;be&#0045;read&#0032;Pile | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
-  2. 🌾 **Land Image Analyser**  
+2. 🌾 **Land Image Analyser**  
    AI-powered AgriTech MVP built using **FastAPI**, **Google Cloud Run**, **Vertex AI**, and **Gemini 2.5 Pro**.
-  3. 🌍 **GeoShift-Change-Detection**  
+
+### 2. 📖 Open Source Projects
+
+1. 🗂️ **ZeroTab**  
+   Zero-dependency LRU tab eviction daemon built with Python asyncio to profile browser activity and compress idle tabs.  
+   [🔗 GitHub Repository](https://github.com/SukritiC/ZeroTab) | [📺 YouTube Playlist](https://www.youtube.com/watch?v=QR7K-y9XEA4&list=PLeeRjwRjXe5Y)
+2. ⚙️ **Poly config**  
+  Type-safe configuration compiler with zero external dependencies. Eliminates format drift, prevents circular variable reference loops, and enforces schema safety in CI/CD pipelines.  
+   [🔗 GitHub Repository](https://github.com/SukritiC/Poly-Config) | [📺 YouTube Playlist](https://www.youtube.com/watch?v=QR7K-y9XEA4&list=PLeeRjwRjXe5Y)
+3. 🌍 **GeoShift-Change-Detection**  
    GeoShift is an MVP system that detects and visualizes landscape changes using multi-temporal satellite imagery.  
-   Includes a **YouTube playlist** documenting the building process of the MVP.
+   [🔗 GitHub Repository](https://github.com/SukritiC/GeoShift-Change-Detection) | [📺 YouTube Playlist](https://www.youtube.com/watch?v=_eqrNr8JZlc&list=PLUlKq_lSKQiOMmrHGozPlZOLDXdEVa5z_)
    
    ---
 
@@ -55,7 +72,6 @@ ai-mastery-hub/docs/
    │   ├── 03-GeoShift-Change-Detection/ 
    │   │   └── README.md 
    │   │   └── Building GeoShift Youtube Playlist 
-   │   ├── 04-ZeroTab/ 
    │   
    ├── 01-google-agentspace/
    │   ├── notes.md
@@ -246,6 +262,12 @@ Feel free to share them with your peers, friends, or anyone in your learning cir
   <a href="https://x.com/SukritiSpeak" target="_blank" style="margin-right: 45px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" alt="X (Twitter)"/>
   </a>
+  <a href="https://www.instagram.com/tech.dev_insights/" target="_blank" style="margin-right: 45px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" width="40" height="40" alt="Instagram"/>
+  </a>
+  <a href="https://sukritic.vercel.app/" target="_blank" style="margin-right: 45px;">
+    <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f310.svg" width="40" height="40" alt="Website"/>
+  </a>
   <a href="https://dev.to/sukriti_c" target="_blank" style="margin-right: 45px;">
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="40" height="40" alt="Dev.to"/>
   </a>
@@ -256,6 +278,7 @@ Feel free to share them with your peers, friends, or anyone in your learning cir
 
 <br/>
 
+🔗 [Personal Website](https://sukritic.vercel.app/)
 🔗 [Commudle Profile](https://www.commudle.com/users/SukritiC)
 🔗 [Google Cloud Badges](https://www.cloudskillsboost.google/public_profiles/53df2710-444d-4f31-9c37-6c87dfcf102f)
 🔗 [Accredible Credential](https://www.credential.net/profile/sukritichatterjee/wallet)
