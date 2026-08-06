@@ -246,35 +246,55 @@ Feel free to share them with your peers, friends, or anyone in your learning cir
 
 ## 💬 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sukritichatterjee/" target="_blank" style="margin-right: 45px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/SukritiC" target="_blank" style="margin-right: 45px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-  </a>
-   <a href="https://sukriti-speaks.medium.com/" target="_blank" style="margin-right: 45px;">
-    <img src="assets/medium.png" width="40" height="40" alt="Medium"/>
-  </a>
-    <a href="https://www.youtube.com/@TechDev_Insights" target="_blank" style="margin-right: 45px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="55" height="40" alt="YouTube"/>
-  </a>
-  <a href="https://x.com/SukritiSpeak" target="_blank" style="margin-right: 45px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" alt="X (Twitter)"/>
-  </a>
-  <a href="https://www.instagram.com/tech.dev_insights/" target="_blank" style="margin-right: 45px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" width="40" height="40" alt="Instagram"/>
-  </a>
-  <a href="https://sukritic.vercel.app/" target="_blank" style="margin-right: 45px;">
-    <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f310.svg" width="40" height="40" alt="Website"/>
-  </a>
-  <a href="https://dev.to/sukriti_c" target="_blank" style="margin-right: 45px;">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="40" height="40" alt="Dev.to"/>
-  </a>
-  <a href="https://www.producthunt.com/products/tbrly?launch=tbrly" target="_blank">
-    <img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1&theme=light" width="180" height="40" alt="Product Hunt"/>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/sukritichatterjee/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/SukritiC" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://sukriti-speaks.medium.com/" target="_blank">
+        <img src="assets/medium.png" width="60" height="30" alt="Medium"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/@TechDev_Insights" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="70" height="30" alt="YouTube"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://x.com/SukritiSpeak" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" alt="X (Twitter)"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/tech.dev_insights/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" width="40" height="40" alt="Instagram"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://sukritic.vercel.app/" target="_blank">
+        <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f310.svg" width="40" height="40" alt="Website"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://dev.to/sukriti_c" target="_blank">
+        <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="40" height="40" alt="Dev.to"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.producthunt.com/products/tbrly?launch=tbrly" target="_blank">
+        <img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1&theme=light" width="180" height="40" alt="Product Hunt"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
