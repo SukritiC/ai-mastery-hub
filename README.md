@@ -260,12 +260,12 @@ Feel free to share them with your peers, friends, or anyone in your learning cir
     </td>
     <td align="center">
       <a href="https://sukriti-speaks.medium.com/" target="_blank">
-        <img src="assets/medium.png" width="60" height="30" alt="Medium"/>
+        <img src="assets/medium.png" width="50" height="40" alt="Medium"/>
       </a>
     </td>
     <td align="center">
       <a href="https://www.youtube.com/@TechDev_Insights" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="70" height="30" alt="YouTube"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="55" height="40" alt="YouTube"/>
       </a>
     </td>
     <td align="center">
